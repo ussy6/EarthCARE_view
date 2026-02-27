@@ -1,0 +1,13 @@
+# Data files
+earthcare_test/*.h5
+earthcare_test/*.HDR
+earthcare_test/*.ZIP
+
+# Generated figures
+earthcare_test/figures/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
